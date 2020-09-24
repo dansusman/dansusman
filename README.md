@@ -6,5 +6,5 @@ My name is Dan Susman, as my GitHub username suggests 😛. I am a second-year c
 - 🌱 Currently, I am learning C, improving my Python skills, and looking into React.
 - 👯 I’m looking to collaborate on pretty much anything. I love a challenge, and I love to learn!
 - 💬 Ask me about my experiences in computer science, as a student, in a research lab, and anywhere else!
-- 📫 Reach out to me: susman.d@northeastern.edu
 - 😀 Pronouns: He/Him/His
+- 📫 Reach out to me: susman.d@northeastern.edu
