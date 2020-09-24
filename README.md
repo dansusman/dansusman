@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dan Susman, as my GitHub username suggests 😛. I am a second-year computer science student at Northeastern University in Boston, MA.
+My name is Dan Susman, as my GitHub username suggests 😛. I am a second-year computer science student at Northeastern University in Boston, MA, interested in algorithm design, software development, alternative energies, and sustainability.
 
 - 🔭 I’m currently working on machine learning algorithms to maximize the efficiency of predicting photochemcial reaction outcome.
 - 🌱 Currently, I am learning C, improving my Python skills, and looking into React.
