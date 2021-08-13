@@ -1,4 +1,4 @@
-### Hi there! ![wave](https://user-images.githubusercontent.com/56033661/129413109-17990938-5c37-4102-8447-219ad91bc5ba.gif)
+### Hi there! ![wave](https://user-images.githubusercontent.com/56033661/129413109-17990938-5c37-4102-8447-219ad91bc5ba.gif | width=35)
 
 
 
