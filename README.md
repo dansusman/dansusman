@@ -1,5 +1,4 @@
-### Hi there! ![wave](https://user-images.githubusercontent.com/56033661/129413109-17990938-5c37-4102-8447-219ad91bc5ba.gif | width=35)
-
+### Hi there! <img src="https://user-images.githubusercontent.com/56033661/129413109-17990938-5c37-4102-8447-219ad91bc5ba.gif" width="24px" alt="wave">
 
 
 My name is Dan Susman. I am a third-year computer science student at Northeastern University in Boston, MA, interested in full-stack development, cloud technologies, and learning new things.
