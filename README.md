@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/56033661/129413109-17990938-5c37-4102-8447-219ad91bc5ba.gif" width="24px" alt="wave">
 
 
-My name is Dan Susman. I am a third-year computer science student at Northeastern University in Boston, MA, interested in backend and cloud development.
+My name is [Dan Susman](https://dansusman.dev). I am a third-year computer science student at Northeastern University in Boston, MA, interested in backend and cloud development.
 
 - 🔭 I just finished an eight-month co-op at Corindus Vascular Robotics as a full-time software engineer. I worked on cloud integration and embedded application development using Python, the Qt framework, C++, Javascript, AWS, PostgresQL, Docker, and a bunch of other tech.
 - 🌱 Currently, I am using TypeScript, React, and GraphQL for my full-stack side projects, and Golang for backend, networking, and distributed systems work. 
