@@ -3,14 +3,8 @@
 
 My name is [Dan Susman](https://dansusman.dev). I am a third-year computer science student at Northeastern University in Boston, MA, interested in backend and cloud development.
 
-- 🔭 I just finished an eight-month co-op at Corindus Vascular Robotics as a full-time software engineer. I worked on cloud integration and embedded application development using Python, the Qt framework, C++, JavaScript, Azure DevOps, PostgreSQL, Docker, and a bunch of other tech.
+- 🔭 I have just signed on as an iOS Developer at Notability! I'm excited to explore a new realm of development and learn a ton.
 
-- 🌱 I'm currently using Golang to build and interact with networks and distributed systems, and writing TypeScript and React code for my full-stack projects.
-
-- 👯 I am a big fan of teamwork, pair programming, and open-source software. I aspire to be a bigger contributer to open-source communities in the near future 😀.
-
-- 💬 Feel free to ask me about my experiences in computer science, as a student, in a research lab, as a full-time software engineer, and anything else!
-
-- 😀 Pronouns: He/Him/His
+- 🌱 I'm currently working on computer networking related stuff, and ramping up on iOS knowledge in preparation for my exciting new role!
 
 - 📫 Reach out to me: susman.d@northeastern.edu
