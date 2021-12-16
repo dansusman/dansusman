@@ -5,4 +5,5 @@ My name is [Dan Susman](https://dansusman.dev). I am a third-year computer scien
 
 - ✏️ Incoming Software Engineering Co-op @ Ginger Labs (Notability)
 - 🌱 Currently working on computer networking stuff, and ramping up on iOS knowledge.
+- 👨‍🏭 Mechanical Keyboard Enthusiast, Gear Head, etc.
 - 📫 Reach out to me: susman.d@northeastern.edu
