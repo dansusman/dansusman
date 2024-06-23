@@ -1,3 +1,1 @@
-### Hi there!
-
-My name is [Dan Susman](https://dansusman.dev). I am a developer at Ginger Labs, working on [Notability](https://notability.com).
+Hey, I'm Dan. Welcome to my GitHub profile! Happy to have you.
